@@ -1,0 +1,186 @@
+[Script Info]
+Title: pn-SomeSubs - I'm Dating a Dark Summoner
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+Style: Subtitle-Top,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,100,100,60,1
+Style: Subtitle-Alt,Gandhi Sans,72,&H00FFFFFF,&H00FFFFFF,&H00010000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+Style: Custom,Arial,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,7,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:01:03.29,0:01:13.62,Subtitle-Top,,0,0,0,,{\fs50\an7\fe162\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\fnSweetest Cat Ever\pos(6,-5.67)}\N{\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Mitos\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 9,0:01:03.29,0:01:06.62,Subtitle-Top,,0,0,0,,Kılıç ve büyü dolu Palustia'da
+Dialogue: 9,0:01:06.62,0:01:10.33,Subtitle,,0,0,0,,Şehrin dışına ayak bastığınız an\Ncanavarların bölgesine girmiş olursunuz.
+Dialogue: 9,0:01:10.70,0:01:15.70,Subtitle,,0,0,0,,Partiler, bunun gibi tehditleri ortadan\Nkaldırmakta uzmanlaşmış gruplardır.
+Dialogue: 9,0:01:16.50,0:01:19.91,Subtitle,,0,0,0,,Mesleklerine özgü yetenekleri kullanarak\Ndüşmanlarıyla savaşırlar.
+Dialogue: 9,0:01:20.29,0:01:22.50,Subtitle,,0,0,0,,Zaman zaman büyü kullanırlar.
+Dialogue: 9,0:01:22.91,0:01:24.91,Subtitle,,0,0,0,,Ve bazen de...
+Dialogue: 9,0:01:26.66,0:01:29.87,Subtitle,,0,0,0,,Dehşet verici şeytanları çağırırlar.
+Dialogue: 9,0:01:30.20,0:01:32.83,Subtitle,,0,0,0,,Öne çık, Imp!
+Dialogue: 9,0:01:34.83,0:01:36.25,Subtitle,,0,0,0,,Merhaba, çocuklar.
+Dialogue: 9,0:01:36.25,0:01:37.79,Subtitle,,0,0,0,,Dehşet verici mi?
+Dialogue: 9,0:01:38.25,0:01:41.08,Subtitle,,0,0,0,,Karanlık yıldırımla onu küle çevir!
+Dialogue: 9,0:01:41.45,0:01:42.66,Subtitle,,0,0,0,,Yıldırım!
+Dialogue: 9,0:01:47.75,0:01:49.75,Subtitle,,0,0,0,,Gücü bu kadar mıydı?
+Dialogue: 9,0:01:49.75,0:01:51.75,Subtitle,,0,0,0,,Harikasın, Amona-san!
+Dialogue: 9,0:01:51.75,0:01:56.87,Subtitle,,0,0,0,,Eğer partimize katılırsan daha yüksek seviyeli görevleri alabiliriz.
+Dialogue: 9,0:01:57.45,0:01:59.50,Subtitle,,0,0,0,,Ben karşıyım!
+Dialogue: 9,0:01:59.50,0:02:02.37,Subtitle,,0,0,0,,Şeytanların gücünü kullanan bir karanlık çağırıcı.
+Dialogue: 9,0:02:02.37,0:02:04.79,Subtitle,,0,0,0,,Tanrı’nın öğretilerine apaçık bir hakaret!
+Dialogue: 9,0:02:05.12,0:02:10.33,Subtitle,,0,0,0,,Üstelik, şeytanların yeniden doğmuş hâli oldukları söylenen Shin ırkından.
+Dialogue: 9,0:02:10.33,0:02:14.95,Subtitle,,0,0,0,,Böylesine şeytani bir varlıkla aynı partide olma düşüncesine bile dayanamıyorum.
+Dialogue: 9,0:02:16.70,0:02:22.16,Subtitle,,0,0,0,,Roni-kun! Bundan sonra aynı ekipte olacağız kavga başlatma.
+Dialogue: 9,0:02:22.45,0:02:26.54,Subtitle,,0,0,0,,Amona-chan, dönünce hoş geldin partisi yapacağız!
+Dialogue: 9,0:02:26.54,0:02:28.20,Subtitle,,0,0,0,,Ben almayayım.
+Dialogue: 9,0:02:28.20,0:02:30.75,Subtitle,,0,0,0,,Oradaki kendini beğenmiş \Nrahiple birlikte olunca.
+Dialogue: 9,0:02:30.75,0:02:33.37,Subtitle,,0,0,0,,Yemeğin tadı bozulur zaten.
+Dialogue: 9,0:02:33.37,0:02:34.87,Subtitle,,0,0,0,,Kim kendini beğenmiş rahipmiş?!
+Dialogue: 9,0:02:37.04,0:02:39.50,Subtitle,,0,0,0,,Hey Haru, bu ikisi iyi olacak mı?
+Dialogue: 9,0:02:39.50,0:02:40.83,Subtitle,,0,0,0,,Merak etme!
+Dialogue: 9,0:02:40.83,0:02:42.62,Subtitle,,0,0,0,,Aynı çatı altında vakit geçirirlerse,
+Dialogue: 9,0:02:42.62,0:02:44.95,Subtitle,,0,0,0,,Eninde sonunda anlaşmaya başlayacaklardır.
+Dialogue: 9,0:02:44.95,0:02:47.79,Subtitle,,0,0,0,,Doğrusu, aralarında kavga çıkaracaklarından korkuyorum.
+Dialogue: 9,0:03:01.83,0:03:03.66,Subtitle,,0,0,0,,Nasıl oldu bu?!
+Dialogue: 9,0:03:08.95,0:03:11.25,Subtitle,,0,0,0,,Eşyalarını taşıyayım mı?
+Dialogue: 9,0:03:11.25,0:03:14.12,Subtitle,,0,0,0,,Dün, şey, Yorulmuşsundur, değil mi?
+Dialogue: 9,0:03:14.12,0:03:17.54,Subtitle,,0,0,0,,Aptal! Bu kadar yılışma!
+Dialogue: 9,0:03:18.66,0:03:21.70,Subtitle,,0,0,0,,Şimdiden anlaşmaya başladınız!
+Dialogue: 9,0:03:19.04,0:03:20.33,Subtitle-Alt,,0,0,0,,Şey...
+Dialogue: 9,0:03:20.33,0:03:21.37,Subtitle-Alt,,0,0,0,,Kes şunu.
+Dialogue: 9,0:03:21.37,0:03:22.66,Subtitle-Alt,,0,0,0,,Beni kabul edersen…...
+Dialogue: 9,0:03:22.16,0:03:24.08,Subtitle,,0,0,0,,Bunlar işi pişirmiş.
+Dialogue: 9,0:03:22.66,0:03:24.08,Subtitle-Alt,,0,0,0,,Sus!
+Dialogue: 9,0:03:24.75,0:03:26.58,Subtitle,,0,0,0,,Karanlık çağırıcıyla çıkıyorum.
+Dialogue: 9,0:03:27.95,0:03:30.70,Subtitle,,0,0,0,,Buyur, sipariş ettiğiniz ağrı kesici.
+Dialogue: 9,0:03:31.45,0:03:33.08,Subtitle,,0,0,0,,Kesene bereket!
+Dialogue: 9,0:03:37.58,0:03:39.58,Subtitle,,0,0,0,,Beni mi bekliyordun?
+Dialogue: 9,0:03:39.91,0:03:41.75,Subtitle,,0,0,0,,Beklemiyordum.
+Dialogue: 9,0:03:42.12,0:03:46.20,Subtitle,,0,0,0,,Hem ayrıca, yaralarını büyüyle iyileştiremez misin?
+Dialogue: 9,0:03:46.45,0:03:51.62,Subtitle,,0,0,0,,Bu yaralar dün beni ısırıp çizdiğin için oldu bunu biliyorsun!
+Dialogue: 9,0:03:51.62,0:03:54.50,Subtitle,,0,0,0,,Bunun gibi yaralar için kutsal tekniklerimi kullanırım sanki.
+Dialogue: 9,0:03:54.50,0:03:57.04,Subtitle,,0,0,0,,Bunun gibi de ne demek?!
+Dialogue: 9,0:03:57.04,0:03:59.95,Subtitle,,0,0,0,,Öyleyse benim de bir çift lafım var.
+Dialogue: 9,0:04:01.04,0:04:04.75,Subtitle,,0,0,0,,İşimiz bittikten sonra \Nsessizce alt tarafını traş etme.
+Dialogue: 9,0:04:04.75,0:04:07.25,Subtitle,,0,0,0,,Ah, o şey...
+Dialogue: 9,0:04:07.25,0:04:10.16,Subtitle,,0,0,0,,Bir rahip olarak, görünüşüme dikkat etmeliyim.
+Dialogue: 9,0:04:10.37,0:04:12.79,Subtitle,,0,0,0,,Kasık kıllarının rahiplikle bir alakası yok.
+Dialogue: 9,0:04:12.79,0:04:16.45,Subtitle,,0,0,0,,Benimle onca şey yaptıktan sonra saf rolüne bürünme!
+Dialogue: 9,0:04:16.91,0:04:18.29,Subtitle,,0,0,0,,Kes sesini!
+Dialogue: 9,0:04:18.29,0:04:21.33,Subtitle,,0,0,0,,Bekaretimi kaybetmiş olabilirim ama inancımı kaybetmedim!
+Dialogue: 9,0:04:21.33,0:04:22.83,Subtitle,,0,0,0,,Şey...
+Dialogue: 9,0:04:23.58,0:04:25.70,Subtitle,,0,0,0,,İkinizle biraz konuşabilir miyim?
+Dialogue: 9,0:04:25.70,0:04:26.87,Subtitle,,0,0,0,,Ne var?!
+Dialogue: 9,0:04:26.87,0:04:29.58,Subtitle,,0,0,0,,Burası sokağın ortası, yani.
+Dialogue: 10,0:04:27.75,0:04:29.76,Subtitle-Alt,,0,0,0,,{\3c&H995F2D&}İkisi sevişiyorlar mı?
+Dialogue: 10,0:04:30.64,0:04:31.98,Subtitle,,0,0,0,,{\3c&H995F2D&\pos(950,940)}Ne iğrenç bir rahip...
+Dialogue: 9,0:04:29.58,0:04:33.04,Subtitle-Alt,,0,0,0,,Kavga edecekseniz, hana dönünce etseniz.
+Dialogue: 9,0:04:37.04,0:04:38.91,Subtitle,,0,0,0,,Ne hakkında konuşuyorsunuz?
+Dialogue: 9,0:04:39.75,0:04:41.58,Subtitle,,0,0,0,,Karanlık çağırıcıyla çıkıyorum.
+Dialogue: 9,0:04:44.50,0:04:47.50,Subtitle,,0,0,0,,Hey, burada yıkanalım!
+Dialogue: 9,0:04:49.50,0:04:52.83,Subtitle,,0,0,0,,O zaman, ben eşyalara göz kulak olacağım.
+Dialogue: 9,0:04:54.16,0:04:55.62,Subtitle-Alt,,0,0,0,,Fakat o
+Dialogue: 9,0:04:55.62,0:04:57.25,Subtitle-Alt,,0,0,0,,O kasıntı, kuralcı rahibin
+Dialogue: 9,0:04:56.12,0:04:57.25,Subtitle,,0,0,0,,Oley!
+Dialogue: 9,0:04:57.25,0:04:59.25,Subtitle,,0,0,0,,Böylesine bir şey yapması...
+Dialogue: 9,0:05:00.41,0:05:04.33,Subtitle,,0,0,0,,Yoksa onu garip bir büyüyle baştan mı çıkardı?
+Dialogue: 9,0:05:07.75,0:05:10.29,Subtitle,,0,0,0,,D-d-devasa...!
+Dialogue: 9,0:05:10.29,0:05:12.70,Subtitle,,0,0,0,,Anlıyorum. Sanırım bu şaşırtıcı bir şey değil
+Dialogue: 9,0:05:11.41,0:05:13.16,Subtitle-Alt,,0,0,0,,Göl!
+Dialogue: 9,0:05:12.70,0:05:14.54,Subtitle,,0,0,0,,Roni'nin sana düşkün olması.
+Dialogue: 9,0:05:14.54,0:05:16.16,Subtitle,,0,0,0,,Göl!
+Dialogue: 9,0:05:14.54,0:05:17.16,Subtitle-Alt,,0,0,0,,B-bana düşkün falan değil!
+Dialogue: 9,0:05:18.45,0:05:21.66,Subtitle,,0,0,0,,Hem o benim göğüslerimi ellemekten çok...
+Dialogue: 9,0:05:21.66,0:05:24.75,Subtitle,,0,0,0,,Kendi memesinin yalanmasından hoşlanıyor.
+Dialogue: 9,0:05:29.12,0:05:31.54,Subtitle,,0,0,0,,Ne, Yalıyor musun? memesini?
+Dialogue: 9,0:05:31.75,0:05:33.66,Subtitle,,0,0,0,,Hayır! Yalamıyorum!
+Dialogue: 9,0:05:38.04,0:05:41.54,Subtitle,,0,0,0,,O zamandan beri,\N şehvetimi dizginliyemiyorum.
+Dialogue: 9,0:05:42.00,0:05:45.83,Subtitle,,0,0,0,,Bir rahibin böyle utanç verici şeyler yapmaması gerekirken.
+Dialogue: 9,0:05:46.66,0:05:49.62,Subtitle,,0,0,0,,Böyle zamanlarda zihinsel odaklanma çok önemlidir.
+Dialogue: 9,0:05:49.62,0:05:53.25,Subtitle,,0,0,0,,Sapkın düşüncelere uymamak için ruhumu güçlendirmeliyim.
+Dialogue: 9,0:05:54.91,0:05:57.75,Subtitle,,0,0,0,,Amona-chan, göğüslerin çok büyük!
+Dialogue: 9,0:05:58.08,0:06:00.41,Subtitle,,0,0,0,,Hey, bir anda dokunma!
+Dialogue: 9,0:06:02.87,0:06:05.83,Subtitle,,0,0,0,,Dünyevi arzulara karşı bu kadar zorlanacağım hiç aklıma gelmezdi!
+Dialogue: 9,0:06:05.83,0:06:10.08,Subtitle,,0,0,0,,Tanrım, iffetime sırt çevirdiğim için beni böyle mi sınıyorsun?!
+Dialogue: 9,0:06:11.41,0:06:14.20,Subtitle,,0,0,0,,Hayır, affedilmeyecek bir günah yoktur!
+Dialogue: 9,0:06:14.20,0:06:17.50,Subtitle,,0,0,0,,İffetimi yeniden kazanmanın ve bu şehvetten kurtulmanın bir yolu olmalı!
+Dialogue: 9,0:06:18.70,0:06:21.33,Subtitle,,0,0,0,,Iyy, gölde bir slime var.
+Dialogue: 9,0:06:21.33,0:06:24.16,Subtitle,,0,0,0,,Vücudumuzun etrafına dolanıyor!
+Dialogue: 9,0:06:24.16,0:06:27.00,Subtitle,,0,0,0,,Yapış yapış ve iğrenç!
+Dialogue: 9,0:06:28.87,0:06:31.08,Subtitle,,0,0,0,,Bunca zamandır ne yapıyorsun sen?!
+Dialogue: 9,0:06:32.91,0:06:34.91,Subtitle,,0,0,0,,Karanlık çağırıcıyla çıkıyorum.
+Dialogue: 9,0:06:35.75,0:06:40.37,Subtitle,,0,0,0,,Shin ırkının, şeytanların yeniden doğmuş hâli olduğu sıkça söylenir.
+Dialogue: 9,0:06:40.37,0:06:43.75,Subtitle,,0,0,0,,Ancak son zamanlarda öne çıkan görüşe göre.
+Dialogue: 9,0:06:43.75,0:06:46.95,Subtitle,,0,0,0,,Muazzam büyü güçleri yalnızca bir mutasyonu tetikledi.
+Dialogue: 9,0:06:48.04,0:06:51.00,Subtitle,,0,0,0,,Sonuçta şeytanlar\N başka bir dünyadan gelen varlıklar.
+Dialogue: 9,0:06:51.00,0:06:53.62,Subtitle,,0,0,0,,Üstelik zekâları insanlığınkini katbekat aşar.
+Dialogue: 9,0:06:57.37,0:07:00.58,Subtitle,,0,0,0,,Çağırıcılara da onların bilgeliği bahşedilir.
+Dialogue: 9,0:07:01.66,0:07:04.70,Subtitle,,0,0,0,,Rahip şuan feci azdı.
+Dialogue: 9,0:07:08.54,0:07:09.75,Subtitle,,0,0,0,,Amona!
+Dialogue: 9,0:07:11.04,0:07:13.33,Subtitle,,0,0,0,,Bu şeyin zayıf noktasını buldun mu?
+Dialogue: 9,0:07:13.33,0:07:15.62,Subtitle,,0,0,0,,Ah, hayır! Birazcık daha bekleyin!
+Dialogue: 9,0:07:15.83,0:07:21.50,Subtitle,,0,0,0,,Usta, az önce külotunu düzeltirken rahip seni dikizliyordu.
+Dialogue: 9,0:07:21.87,0:07:23.45,Subtitle,,0,0,0,,Onu boşver artık!
+Dialogue: 9,0:07:23.45,0:07:26.16,Subtitle,,0,0,0,,Onun zayıf noktasını söyle!
+Dialogue: 9,0:07:26.16,0:07:28.70,Subtitle,,0,0,0,,Rahibin zayıf noktası göğüs uçları.
+Dialogue: 9,0:07:28.70,0:07:31.29,Subtitle,,0,0,0,,Ama bugünlük fantezi önerim, onu arka-
+Dialogue: 9,0:07:31.75,0:07:33.75,Subtitle,,0,0,0,,Ateş topuu!
+Dialogue: 9,0:07:33.95,0:07:36.70,Subtitle,,0,0,0,,Ah, demek zayıflığı ateşti!
+Dialogue: 9,0:07:40.91,0:07:41.75,Subtitle,,0,0,0,,Sapık.
+Dialogue: 9,0:07:41.75,0:07:43.16,Subtitle,,0,0,0,,Neden bir anda?!
+Dialogue: 9,0:07:43.75,0:07:45.58,Subtitle,,0,0,0,,Karanlık çağırıcıyla çıkıyorum.
+Dialogue: 9,0:07:46.83,0:07:48.66,Subtitle,,0,0,0,,Hazine sandığı!
+Dialogue: 9,0:07:49.04,0:07:51.41,Subtitle,,0,0,0,,İyi bir şey var mı acaba?
+Dialogue: 9,0:07:51.41,0:07:55.12,Subtitle,,0,0,0,,İçlerinde hep bir şey olması ne tuhaf, değil mi?
+Dialogue: 9,0:07:56.00,0:07:59.91,Subtitle,,0,0,0,,Efsaneye göre bu kutular Tanrı'nun kutsaması.
+Dialogue: 9,0:07:59.91,0:08:06.08,Subtitle,,0,0,0,,Ve bu dünyayı koruyan tanrı bizim en ihtiyaç duyduğumuz eşyayı bize bahşediyor.
+Dialogue: 9,0:08:06.75,0:08:09.41,Subtitle,,0,0,0,,Ah! Bu zırh çok tatlı!
+Dialogue: 9,0:08:09.41,0:08:12.54,Subtitle,,0,0,0,,Bu şuan en çok ihtiyacımız olan şey mi?
+Dialogue: 9,0:08:12.54,0:08:14.75,Subtitle,,0,0,0,,Bu sadece bir teori!
+Dialogue: 9,0:08:15.12,0:08:18.29,Subtitle,,0,0,0,,Yine de, bu ekipmanların istatistikleri oldukça iyi!
+Dialogue: 9,0:08:18.29,0:08:20.25,Subtitle,,0,0,0,,Bir denesene, Amona-chan?
+Dialogue: 9,0:08:20.25,0:08:22.25,Subtitle,,0,0,0,,Ha? Böyle saçma sapan bir kıyafeti neden.
+Dialogue: 9,0:08:22.25,0:08:23.50,Subtitle,,0,0,0,,Olmaz!
+Dialogue: 9,0:08:24.20,0:08:29.12,Subtitle,,0,0,0,,Amona bu ekipmanları asla giymemeli!
+Dialogue: 9,0:08:29.12,0:08:30.75,Subtitle,,0,0,0,,Ne oldu bir anda?!
+Dialogue: 9,0:08:31.62,0:08:33.12,Subtitle,,0,0,0,,Rahibe...
+Dialogue: 9,0:08:33.37,0:08:34.87,Subtitle,,0,0,0,,Rahibe...
+Dialogue: 9,0:08:35.95,0:08:38.16,Subtitle,,0,0,0,,Aman, Ne oldu, Roni?
+Dialogue: 9,0:08:38.16,0:08:40.29,Subtitle,,0,0,0,,Kabus mu gördün?
+Dialogue: 9,0:08:40.58,0:08:44.45,Subtitle,,0,0,0,,Rüyamda tavşan gibi giyinmiş bir abla vardı.
+Dialogue: 9,0:08:44.45,0:08:48.29,Subtitle,,0,0,0,,Uyandığımda alt tarafım beyaz şeylerle doluydu.
+Dialogue: 9,0:08:48.29,0:08:51.50,Subtitle,,0,0,0,,Ben ölecek miyim?!
+Dialogue: 9,0:08:52.50,0:08:55.29,Subtitle,,0,0,0,,Tavşan kıyafetleri kötüdür!
+Dialogue: 9,0:08:55.71,0:08:59.54,Subtitle,,0,0,0,,O hariç her şey olur!
+Dialogue: 9,0:09:02.50,0:09:08.58,Subtitle,,0,0,0,,Eğer o an tavşan kıyafetini giyseydin rahip çok memnun olurdu.
+Dialogue: 9,0:09:08.58,0:09:09.79,Subtitle,,0,0,0,,Ne?!
+Dialogue: 9,0:09:09.79,0:09:13.50,Subtitle,,0,0,0,,Sanki sapıkça şeyler yapmak için kendimi zor tutuyormuşum gibi olurdu!
+Dialogue: 9,0:09:13.50,0:09:16.37,Subtitle,,0,0,0,,Hayır, o kadar ileri gitmedim.
+Dialogue: 9,0:09:16.37,0:09:17.37,Subtitle,,0,0,0,,Hıh!
+Dialogue: 9,0:09:22.04,0:09:25.08,Subtitle,,0,0,0,,Ne oldu?\NBugün buluşma planımız yoktu...
+Dialogue: 9,0:09:26.62,0:09:28.83,Subtitle,,0,0,0,,N-nasılım...?
+Dialogue: 9,0:09:30.75,0:09:33.50,Subtitle,,0,0,0,,B-b-b-b-bu...
+Dialogue: 9,0:09:33.75,0:09:38.12,Subtitle,,0,0,0,,G-gerçi senin ne düşündüğün beni ilgilendirmez ki.
+Dialogue: 9,0:09:38.12,0:09:40.75,Subtitle,,0,0,0,,Bununla  zevke gelen senin  inancının ne kadar zayıf.
+Dialogue: 9,0:09:40.75,0:09:43.54,Subtitle,,0,0,0,,Olduğunu göstermenin eğlenceli olabileceğini düşündüm.
+Dialogue: 9,0:09:44.33,0:09:45.33,Subtitle,,0,0,0,,Ah!
+Dialogue: 9,0:09:46.54,0:09:48.08,Subtitle,,0,0,0,,Ne yapıyorsun?!
+Dialogue: 9,0:09:52.29,0:09:54.29,Subtitle,,0,0,0,,D-Dur...
+Dialogue: 9,0:09:54.87,0:09:57.00,Subtitle,,0,0,0,,Öpüşmek utanç veri-
+Dialogue: 9,0:10:00.75,0:10:03.75,Subtitle,,0,0,0,,Aptal!\NÇok hızlı ilerliyorsun!
+Dialogue: 9,0:10:40.87,0:10:42.00,Subtitle,,0,0,0,,Amona!
+Dialogue: 9,0:10:48.20,0:10:49.62,Subtitle,,0,0,0,,Amona!
+Dialogue: 9,0:10:50.04,0:10:52.83,Subtitle,,0,0,0,,Yani o ekipmana ne oldu?
+Dialogue: 9,0:10:52.83,0:10:57.12,Subtitle,,0,0,0,,O-Onu özel günler için sakladım...
+Dialogue: 9,0:10:57.37,0:10:59.00,Subtitle,,0,0,0,,Yatmışlar.
+Dialogue: 0,0:08:55.70,0:08:59.54,Custom,,0,0,0,,{\pos(1459,75)\fnComic Sans MS\fs45}BÜYÜK TAVŞAN
+Dialogue: 0,0:08:55.70,0:08:59.54,Custom,,0,0,0,,{\pos(1420,129)\fnComic Sans MS\fs45}KOSTÜM FETİŞİ
