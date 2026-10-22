@@ -1,0 +1,192 @@
+[Script Info]
+Title: pn-SomeSubs - I'm Dating a Dark Summoner
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,45,1
+Style: Subtitle-Top,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,100,100,60,1
+Style: Subtitle-Alt,Gandhi Sans,72,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+Style: Song,Alegreya Sans,75,&H00FFFFFF,&H00FFFFFF,&H005F0C72,&HA0000000,-1,0,0,0,100,100,0.1,0,1,3.3,0,8,60,60,38,1
+Style: Custom,Arial,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,7,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Subtitle-Top,,0,0,0,,{\fs50\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Mitos\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Mitos\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub\N
+Dialogue: 10,0:01:03.29,0:01:05.16,Subtitle-Top,,0,0,0,,Antik harabeler...
+Dialogue: 10,0:01:05.37,0:01:10.25,Subtitle,,0,0,0,,Hoş geldiniz... Hoş geldiniz...
+Dialogue: 10,0:01:05.37,0:01:08.95,Subtitle-Alt,,0,0,0,,İleri teknolojik uygarlığın bu kristalleşmiş yapıları…
+Dialogue: 10,0:01:08.95,0:01:12.41,Subtitle-Alt,,0,0,0,,Çok eski zamanlardan beri varlıklarını sürdürerek günümüze kadar ulaşmışlardır.
+Dialogue: 10,0:01:11.08,0:01:12.41,Subtitle,,0,0,0,,Hoş geldiniz...
+Dialogue: 10,0:01:15.91,0:01:18.91,Subtitle,,0,0,0,,Buraya sıkışıp kaldığımızdan beri ne kadar zaman geçti?
+Dialogue: 10,0:01:20.25,0:01:21.62,Subtitle,,0,0,0,,Bilmiyorum.
+Dialogue: 10,0:01:29.75,0:01:33.50,Subtitle,,0,0,0,,Burası daha diğer partiler tarafından \NYağmalanamış gibi
+Dialogue: 10,0:01:33.50,0:01:35.41,Subtitle,,0,0,0,,Çok heyecan verici!
+Dialogue: 10,0:01:36.29,0:01:39.16,Subtitle,,0,0,0,,Bu da tanrının rehberliğinin bir başka örneği.
+Dialogue: 10,0:01:39.16,0:01:42.70,Subtitle,,0,0,0,,Hem antik kalıntılar yağmalanmamalı …
+Dialogue: 10,0:01:42.98,0:01:44.30,Subtitle,,0,0,0,,Paylaşılması gerekendir...
+Dialogue: 10,0:01:44.30,0:01:46.29,Subtitle,,0,0,0,,Yine saçma sapan bir batıl inanç.
+Dialogue: 10,0:01:46.29,0:01:47.91,Subtitle,,0,0,0,,Ne demek batıl?!
+Dialogue: 10,0:01:47.91,0:01:49.66,Subtitle,,0,0,0,,İlahi cezaya çarptırılacaksın!
+Dialogue: 10,0:01:50.25,0:01:52.62,Subtitle,,0,0,0,,Bir dene bakalım!\NBunu sana ödetirim!
+Dialogue: 10,0:01:52.62,0:01:55.70,Subtitle,,0,0,0,,Neden hep böyle ısırmaya kalkıyorsun?!
+Dialogue: 10,0:01:55.70,0:01:57.12,Subtitle,,0,0,0,,Isırmaya falan çalışmıyorum!
+Dialogue: 10,0:01:57.12,0:01:58.70,Subtitle,,0,0,0,,Isırmayı falan mı seviyorsun sen?!
+Dialogue: 10,0:02:00.08,0:02:01.75,Subtitle,,0,0,0,,Hey, dikkat edin!
+Dialogue: 10,0:02:01.75,0:02:02.75,Subtitle,,0,0,0,,Ne?
+Dialogue: 10,0:02:06.95,0:02:10.79,Subtitle,,0,0,0,,Şans eseri girdiğimiz bir odada kapana kısılacağımız aklıma gelmezdi.
+Dialogue: 10,0:02:11.50,0:02:14.75,Subtitle,,0,0,0,,Tuzak olabilcek olmasına rağmen \N gardımı düşürdüm.
+Dialogue: 10,0:02:17.20,0:02:22.04,Subtitle,,0,0,0,,Haru ve Eury çıkmak için yol aramaya gittiler ama.
+Dialogue: 10,0:02:23.08,0:02:25.50,Subtitle,,0,0,0,,Hoş geldiniz! Hoş geldiniz!
+Dialogue: 10,0:02:26.37,0:02:28.69,Subtitle,,0,0,0,,Hoş geldiniz! Hoş geldiniz!
+Dialogue: 10,0:02:28.54,0:02:30.37,Subtitle,,0,0,0,,Haru, bu taraftan!
+Dialogue: 10,0:02:34.54,0:02:37.75,Subtitle,,0,0,0,,Herhangi bir sorununuz var mı?
+Dialogue: 10,0:02:45.87,0:02:50.08,Subtitle,,0,0,0,,Sanırım onlara güvenip beklemekten başka çaremiz yok.
+Dialogue: 10,0:03:03.79,0:03:04.87,Subtitle,,0,0,0,,Bu kötü!
+Dialogue: 10,0:03:06.04,0:03:08.58,Subtitle,,0,0,0,,Baş başa küçücük bir odada olunca.
+Dialogue: 10,0:03:09.00,0:03:11.41,Subtitle,,0,0,0,,Şehvetli bir ortam oluyor!
+Dialogue: 10,0:03:14.50,0:03:16.12,Subtitle,,0,0,0,,Ah, aklıma gelmişken...
+Dialogue: 10,0:03:16.41,0:03:19.62,Subtitle,,0,0,0,,Amona, neden maceracı oldun?
+Dialogue: 10,0:03:21.37,0:03:22.79,Subtitle,,0,0,0,,Bu...
+Dialogue: 10,0:03:28.75,0:03:33.37,Subtitle,,0,0,0,,Seni eğitmek için çok zamanım kalmadı...
+Dialogue: 10,0:03:34.29,0:03:37.83,Subtitle,,0,0,0,,Sen yine yalnız kalacaksın...
+Dialogue: 10,0:03:40.12,0:03:43.54,Subtitle,,0,0,0,,Amona, şu andan itibaren sen…
+Dialogue: 10,0:03:44.79,0:03:51.16,Subtitle,,0,0,0,,Yani, geçimimi sağlamak için canavar avlamaya başlamıştım...
+Dialogue: 10,0:03:52.37,0:03:54.00,Subtitle,,0,0,0,,Peki ya sen?
+Dialogue: 10,0:03:54.66,0:03:59.33,Subtitle,,0,0,0,,Benim rahip olarak kasabaları canavarlardan korumak gibi bir görevim var.
+Dialogue: 10,0:03:59.33,0:04:00.83,Subtitle,,0,0,0,,Bu şekilde olaylar gelişti....
+Dialogue: 10,0:04:00.83,0:04:04.16,Subtitle,,0,0,0,,Hey, sevdiğiniz kişi falan var mı?
+Dialogue: 10,0:04:04.16,0:04:05.41,Subtitle,,0,0,0,,Ben...
+Dialogue: 10,0:04:05.41,0:04:08.08,Subtitle,,0,0,0,,Hehe, sır.
+Dialogue: 10,0:04:08.41,0:04:11.29,Subtitle,,0,0,0,,Imp?! neden kendi kendine ortaya çıkıyorsun?!
+Dialogue: 10,0:04:11.29,0:04:13.75,Subtitle,,0,0,0,,Asıl sen beni neden çağırmadın?!
+Dialogue: 10,0:04:13.75,0:04:18.54,Subtitle,,0,0,0,,Şeytanın gücüyle bu kapıyı çok kolay bir şekilde açabilecek olmama rağmen.
+Dialogue: 10,0:04:18.54,0:04:20.25,Subtitle,,0,0,0,,Ciddi misin?!
+Dialogue: 10,0:04:20.25,0:04:21.91,Subtitle,,0,0,0,,Bunun karşılığında.
+Dialogue: 10,0:04:21.91,0:04:25.12,Subtitle,,0,0,0,,Hizmetime eş değer bir ödeme alacağım tabii ki.
+Dialogue: 10,0:04:25.54,0:04:26.91,Subtitle,,0,0,0,,Ödeme mi...?
+Dialogue: 10,0:04:26.91,0:04:30.33,Subtitle,,0,0,0,,Şeytanların gücünü bedel ödemeden kullanamazsın.
+Dialogue: 10,0:04:30.33,0:04:33.20,Subtitle,,0,0,0,,Karanlık çağırıcılığın temeli budur.
+Dialogue: 10,0:04:33.75,0:04:37.25,Subtitle,,0,0,0,,Güçlü büyülerini ve bilgilerini ödünç almanın karşılığında,
+Dialogue: 10,0:04:37.25,0:04:39.45,Subtitle,,0,0,0,,Aldıklarına eş değer bir bedel ödemelisin.
+Dialogue: 10,0:04:39.83,0:04:43.04,Subtitle,,0,0,0,,İşte bu şeytanla yapılan bir anlaşmadır.
+Dialogue: 10,0:04:43.41,0:04:47.41,Subtitle,,0,0,0,,O zaman senin ödediğin bedel.
+Dialogue: 10,0:04:48.45,0:04:51.08,Subtitle,,0,0,0,,Her çağırma için ona bir yaprak yosun veriyorum.
+Dialogue: 10,0:04:51.08,0:04:52.29,Subtitle,,0,0,0,,Ne kadar boş bir bedel.
+Dialogue: 10,0:04:52.29,0:04:54.50,Subtitle,,0,0,0,,Ne?!  Yosun çok lezzetli lan!
+Dialogue: 10,0:04:54.50,0:04:55.83,Subtitle,,0,0,0,,Ah, üzgünüm.
+Dialogue: 10,0:04:56.16,0:04:58.16,Subtitle,,0,0,0,,Sanırım başka çarem yok.
+Dialogue: 10,0:04:58.16,0:04:59.85,Subtitle,,0,0,0,,O zaman bu seferlik 2 yosun veriyo-
+Dialogue: 10,0:04:59.87,0:05:03.12,Subtitle,,0,0,0,,Bu sefer böyle şeyler yeterli olmayacak..
+Dialogue: 10,0:05:03.12,0:05:04.12,Subtitle,,0,0,0,,Ne?!
+Dialogue: 10,0:05:04.75,0:05:08.75,Subtitle,,0,0,0,,İstediğim şey çok daha özel bir bedel...
+Dialogue: 10,0:05:10.04,0:05:12.91,Subtitle,,0,0,0,,İkinizin sapıkça şeyler yapması.
+Dialogue: 10,0:05:12.91,0:05:13.95,Subtitle,,0,0,0,,Ne?!
+Dialogue: 10,0:05:14.29,0:05:18.08,Subtitle,,0,0,0,,Son zamanlarda görevlerden dolayı bir süredir sevişemediniz, değil mi?
+Dialogue: 10,0:05:18.08,0:05:21.79,Subtitle,,0,0,0,,Ben de şehvetinizi doyasıya yaşamanız için size bir bahane sunayım dedim.
+Dialogue: 10,0:05:21.79,0:05:23.25,Subtitle,,0,0,0,,Seni ilgilendirmez!
+Dialogue: 10,0:05:23.25,0:05:27.45,Subtitle,,0,0,0,,Seni şeytan!\NBizim yozlaşmış halimizi görüp dalga mı geçeceksin?!
+Dialogue: 10,0:05:27.45,0:05:29.16,Subtitle,,0,0,0,,Uygunsuz?
+Dialogue: 10,0:05:29.16,0:05:31.91,Subtitle,,0,0,0,,Bendeniz yalnızca sapıkça şeyleri izlemeyi seven bir samurayım.
+Dialogue: 10,0:05:31.91,0:05:33.70,Subtitle,,0,0,0,,Gerçekten şeytansın!
+Dialogue: 10,0:05:35.54,0:05:38.75,Subtitle,,0,0,0,,Bir kıyak olsun diye size tam da aradığınız gibi bir yatak hazırladım.
+Dialogue: 10,0:05:38.75,0:05:42.87,Subtitle,,0,0,0,,Ah, ben gidiyorum eğlencenize bakın.
+Dialogue: 10,0:05:43.54,0:05:46.16,Subtitle,,0,0,0,,Cidden, çok burnunu sokuyorsun!
+Dialogue: 10,0:05:47.45,0:05:49.12,Subtitle,,0,0,0,,O pislik...!
+Dialogue: 10,0:05:49.12,0:05:51.66,Subtitle,,0,0,0,,Cidden şeytanlara güven olmaz!
+Dialogue: 10,0:05:53.08,0:05:54.87,Subtitle,,0,0,0,,Böyle söylesem bile...
+Dialogue: 10,0:05:54.87,0:05:56.70,Subtitle,,0,0,0,,Bu sıralar zaman bulamadığımız...
+Dialogue: 10,0:05:56.70,0:05:58.91,Subtitle,,0,0,0,,İçin tatminsizlik çektiğimiz doğru.
+Dialogue: 10,0:05:59.75,0:06:02.95,Subtitle,,0,0,0,,Fakat acele edip direk üstüne atlarsam..
+Dialogue: 10,0:06:03.33,0:06:08.70,Subtitle,,0,0,0,,Sapkınlık dışı bir şey düşünemiyorum gibi gözükür.
+Dialogue: 10,0:06:09.91,0:06:11.54,Subtitle,,0,0,0,,Bu savaşı..
+Dialogue: 10,0:06:11.54,0:06:14.41,Subtitle,,0,0,0,,İlk hamle yapan kişi kaybeder!
+Dialogue: 10,0:06:15.45,0:06:17.79,Subtitle-Top,,0,0,0,,Ülkenin dört bir yanındaki  şehvet severler!
+Dialogue: 10,0:06:17.79,0:06:20.75,Subtitle-Top,,0,0,0,,İyi akşamlar bendeniz spikeriniz İmp.
+Dialogue: 10,0:06:20.75,0:06:24.83,Subtitle-Top,,0,0,0,,Bakalım hangisi sapıkların kralı ünvanını elde edecek.
+Dialogue: 10,0:06:25.62,0:06:29.87,Subtitle,,0,0,0,,Tanrının hizmetkarı olarak \Nyenilemem!
+Dialogue: 10,0:06:29.87,0:06:32.37,Subtitle,,0,0,0,,Sence de...
+Dialogue: 10,0:06:33.04,0:06:36.08,Subtitle,,0,0,0,,Bu oda biraz sıcak değil mi?
+Dialogue: 10,0:06:36.08,0:06:39.95,Subtitle,,0,0,0,,İşte! Yarışmacı Amona saldırıya geçti!
+Dialogue: 10,0:06:41.50,0:06:45.08,Subtitle,,0,0,0,,Bu saldırı Yarışmacı Roni'yi oldukça etkilemişe benziyor!
+Dialogue: 10,0:06:45.79,0:06:48.08,Subtitle,,0,0,0,,Öylece açılmayacak gibi.
+Dialogue: 10,0:06:49.62,0:06:51.37,Subtitle,,0,0,0,,Bu kapı...
+Dialogue: 0,0:06:51.38,0:06:54.54,Subtitle,,0,0,0,,{\an8\pos(965,35)}{\fnArial\fs36}ÇN:Dempsey Roll:Jack Dempsey'nin geliştirdiği, vücudu sekiz çizerek hareket ettirip güçlü ve seri yumruklar atmaya dayanan bir boks tekniğidir.
+Dialogue: 10,0:06:51.87,0:06:54.54,Subtitle,,0,0,0,,İşte şeytani Dempsey roll!
+Dialogue: 10,0:06:54.54,0:06:58.95,Subtitle,,0,0,0,,Yarışmacı Roni  bu dolgun hareketlere dayanabilecek mi bakalım?
+Dialogue: 10,0:07:00.12,0:07:01.70,Subtitle,,0,0,0,,İşe yarıyor!
+Dialogue: 10,0:07:04.00,0:07:07.33,Subtitle,,0,0,0,,Silah açısından açık ara avantajlı olan benim!
+Dialogue: 10,0:07:07.33,0:07:10.20,Subtitle,,0,0,0,,Hadi, içindeki canavarı serbest bırak!
+Dialogue: 10,0:07:15.25,0:07:19.62,Subtitle,,0,0,0,,Yarışmacı Roni Kıyafetleriyle gözlerini kapatma stratejisini uyguluyor.
+Dialogue: 10,0:07:19.62,0:07:24.04,Subtitle,,0,0,0,,Bu görsel saldırıları tamamen engelleyen harika bir savunma stratejisi!
+Dialogue: 10,0:07:24.91,0:07:28.16,Subtitle,,0,0,0,,Ve üstelik istemeden yapmış olsa bile yarışmacı Amonaya hasar verdi.
+Dialogue: 10,0:07:28.16,0:07:31.08,Subtitle,,0,0,0,,Saldırının ve savunmanın birleştiği harika bir teknik!
+Dialogue: 10,0:07:31.08,0:07:33.70,Subtitle,,0,0,0,,Yoksa yarışmacı Amona avantajını kaybetti mi?!
+Dialogue: 10,0:07:34.66,0:07:39.29,Subtitle,,0,0,0,,Ooo, yarışmacı Amano cesur bir karar vererek aradaki mesafeyi kapatıyor!
+Dialogue: 10,0:07:40.45,0:07:42.95,Subtitle,,0,0,0,,Neden kendini tutuyorsun?
+Dialogue: 10,0:07:43.29,0:07:46.54,Subtitle,,0,0,0,,Aslında yapmak için yanıp tutuşmana rağmen.
+Dialogue: 10,0:07:46.54,0:07:51.87,Subtitle,,0,0,0,,Beni mahvetmek istemene rağmen.
+Dialogue: 10,0:07:52.54,0:07:55.00,Subtitle,,0,0,0,,Beyler bayanlar, fısıltı saldırısı geliyor!
+Dialogue: 10,0:07:55.00,0:07:56.87,Subtitle,,0,0,0,,Bu artık kural ihlalidir!
+Dialogue: 10,0:07:56.87,0:07:58.62,Subtitle,,0,0,0,,Asıl sapık kim?!
+Dialogue: 10,0:07:59.29,0:08:01.50,Subtitle,,0,0,0,,Yarışmacı Roni savunmaya geçiyor.
+Dialogue: 10,0:08:01.50,0:08:03.75,Subtitle,,0,0,0,,Fakat  çok dayanabileceğe benzemiyor.
+Dialogue: 10,0:08:03.75,0:08:07.58,Subtitle,,0,0,0,,Şehvetin Tanrısı Amonaya karşı gülümsüyor mu yoksa?
+Dialogue: 10,0:08:11.95,0:08:13.91,Subtitle,,0,0,0,,Ve göz bandını çıkarıyor!
+Dialogue: 10,0:08:13.91,0:08:16.25,Subtitle,,0,0,0,,Maç sona mı erdi?!
+Dialogue: 10,0:08:22.25,0:08:24.08,Subtitle,,0,0,0,,Üzgünüm, Amona!
+Dialogue: 10,0:08:24.08,0:08:26.08,Subtitle,,0,0,0,,Daha fazla dayanamam!
+Dialogue: 10,0:08:26.33,0:08:29.95,Subtitle,,0,0,0,, benim için onca şey yapıyorsun.
+Dialogue: 10,0:08:29.95,0:08:33.79,Subtitle,,0,0,0,,Bu yüzden senin için yapabileceğim bir şey var mı diye düşünüyordum ama
+Dialogue: 10,0:08:34.04,0:08:37.54,Subtitle,,0,0,0,,Bu şekilde sarılmaktan başka bir şey gelmiyor aklıma.
+Dialogue: 10,0:08:38.91,0:08:40.62,Subtitle,,0,0,0,,A-Amona?
+Dialogue: 10,0:08:43.41,0:08:45.37,Subtitle,,0,0,0,,Ş-şey...
+Dialogue: 10,0:08:47.79,0:08:50.08,Subtitle,,0,0,0,,Çok baştan savma...
+Dialogue: 10,0:08:51.54,0:08:55.95,Subtitle,,0,0,0,,Bununla tatmin olmama imkanım yok!
+Dialogue: 10,0:08:56.29,0:08:59.12,Subtitle,,0,0,0,,A-Amona...! Ah!
+Dialogue: 10,0:08:59.12,0:09:01.16,Subtitle,,0,0,0,,Beklenmedik bir olay örgüsü!
+Dialogue: 10,0:09:01.16,0:09:05.37,Subtitle,,0,0,0,,Yarışmacı Amona sapıkların kralı oluyor!
+Dialogue: 10,0:09:05.37,0:09:09.45,Subtitle,,0,0,0,,Bir daha ki maça kadar görüşürüz\N sayın seyirciler.
+Dialogue: 10,0:09:09.79,0:09:11.00,Subtitle,,0,0,0,,Oha...
+Dialogue: 10,0:09:12.75,0:09:14.12,Subtitle,,0,0,0,,A-a...
+Dialogue: 10,0:09:18.37,0:09:19.62,Subtitle,,0,0,0,,A-Amona...!
+Dialogue: 10,0:09:26.41,0:09:30.16,Subtitle,,0,0,0,,Sırf birazcık yaladım diye mi bu kadar azdın?
+Dialogue: 10,0:09:30.16,0:09:32.12,Subtitle,,0,0,0,,Seni sapık rahip.
+Dialogue: 10,0:09:38.66,0:09:40.08,Subtitle,,0,0,0,,Kokuyorsun...
+Dialogue: 10,0:09:40.83,0:09:44.25,Subtitle,,0,0,0,,Görevin ortasındayız ne yapabilirim ki?
+Dialogue: 10,0:09:46.91,0:09:48.95,Subtitle,,0,0,0,,Ah, orası!
+Dialogue: 10,0:09:49.20,0:09:52.66,Subtitle,,0,0,0,,Çok konuşuyorsun! Sus bir saniye!
+Dialogue: 10,0:09:53.00,0:09:55.00,Subtitle,,0,0,0,,Ü-üzgünüm...
+Dialogue: 10,0:10:02.45,0:10:03.79,Subtitle,,0,0,0,,A-Amona?
+Dialogue: 10,0:10:04.37,0:10:06.12,Subtitle,,0,0,0,,Ne yapıyorsun...?
+Dialogue: 10,0:10:09.91,0:10:12.54,Subtitle,,0,0,0,,Dur Amona!
+Dialogue: 10,0:10:16.16,0:10:18.66,Subtitle,,0,0,0,,Neden kendi kendine geliyorsun?
+Dialogue: 10,0:10:21.16,0:10:23.54,Subtitle,,0,0,0,,Beni de biraz eğlendir!
+Dialogue: 10,0:10:29.08,0:10:32.37,Subtitle,,0,0,0,,Amona, bundan böyle...
+Dialogue: 10,0:10:33.41,0:10:35.91,Subtitle,,0,0,0,,Ait olabileceğin bir yer bul.
+Dialogue: 10,0:10:36.41,0:10:39.83,Subtitle,,0,0,0,,Sana değer veren birinin bulunduğu bir yer.
+Dialogue: 10,0:10:43.33,0:10:44.95,Subtitle,,0,0,0,,Amona! Roni!
+Dialogue: 10,0:10:44.95,0:10:48.33,Subtitle,,0,0,0,,Çok şükür!\NKapı açıldı.
+Dialogue: 10,0:10:56.25,0:10:57.79,Subtitle,,0,0,0,,Yatağın burada ne işi var?
+Dialogue: 10,0:11:07.58,0:11:09.75,Song,,0,0,0,,{\fad(150,150)}Suki kirai? Wakkannai
+Dialogue: 10,0:11:09.75,0:11:11.87,Song,,0,0,0,,{\fad(150,150)}Doushitai? Soba ni itai
+Dialogue: 10,0:11:11.87,0:11:15.87,Song,,0,0,0,,{\fad(150,150)}Sono nukumori hanashitakunai
+Dialogue: 10,0:11:16.83,0:11:21.29,Song,,0,0,0,,{\fad(150,150)}Mada hayai? Aitai shiritai sono omoi
+Dialogue: 10,0:11:21.29,0:11:24.70,Song,,0,0,0,,{\fad(150,150)}Demo kuchizuke wa ima ja nai
+Dialogue: 10,0:11:26.20,0:11:28.45,Song,,0,0,0,,{\fad(150,150)}Kono mama no futari ja dame ka na?
+Dialogue: 10,0:11:28.45,0:11:30.79,Song,,0,0,0,,{\fad(150,150)}Fureru dake ja tarinai ka na?
+Dialogue: 10,0:11:30.79,0:11:34.79,Song,,0,0,0,,{\fad(150,150)}Atatakai jikan kimi o dakishimete ita
+Dialogue: 10,0:11:36.25,0:11:42.00,Song,,0,0,0,,{\fad(150,150)}Kimi ga hoshii zenbu hoshii yo da kara ne
+Dialogue: 10,0:11:42.00,0:11:45.00,Song,,0,0,0,,{\fad(150,150)}Suki ni shite iin da yo
+Dialogue: 10,0:11:45.54,0:11:51.37,Song,,0,0,0,,{\fad(150,150)}Dare ka janakute kimi ga ii no ni ienai
+Dialogue: 10,0:11:51.37,0:11:54.95,Song,,0,0,0,,{\fad(150,150)}Fukaku kakureta "I love you"
+Dialogue: 10,0:11:54.95,0:12:00.83,Song,,0,0,0,,{\fad(150,150)}Kitto yobidasu kara mada naisho
+Dialogue: 0,0:01:01.58,0:01:05.16,Custom,,0,0,0,,{\c&H009BE2&\pos(153,907)\fs45}Bölüm 2: Karanlık çağırıcıyla bir odada sıkıştım
+Dialogue: 0,0:06:15.00,0:06:25.16,Custom,,0,0,0,,{\c&HFFFFFF&\pos(979,928)\fs45}Spiker
