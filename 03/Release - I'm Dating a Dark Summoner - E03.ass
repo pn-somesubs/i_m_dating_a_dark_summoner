@@ -1,0 +1,226 @@
+[Script Info]
+Title: pn-SomeSubs - I'm Dating a Dark Summoner
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+Style: Subtitle-Alt,Gandhi Sans,72,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+Style: Song,Alegreya Sans,75,&H00FFFFFF,&H00FFFFFF,&H005F0C72,&HA0000000,-1,0,0,0,100,100,0.1,0,1,3.3,0,8,60,60,38,1
+Style: Custom,Arial,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.5,7,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Subtitle,,0,0,0,,{\fs45\an7\fe162\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Eymen\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Mitos\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub\N
+Dialogue: 9,0:01:05.16,0:01:08.79,Subtitle,,0,0,0,,Bugün görev de yok. Uzun zaman sonra ilk boş günümüz, değil mi?
+Dialogue: 9,0:01:09.20,0:01:13.45,Subtitle,,0,0,0,,Tanrı'nın koruması sayesinde böyle huzurlu zamanlar geçirebiliyoruz.
+Dialogue: 9,0:01:18.54,0:01:20.37,Subtitle,,0,0,0,,Nereni vurdu Roni?!
+Dialogue: 9,0:01:23.37,0:01:25.12,Subtitle,,0,0,0,,Ah, kıl payı kurtlumuşsun.
+Dialogue: 9,0:01:25.58,0:01:27.87,Subtitle,,0,0,0,,Hey, oka bağlı bir şey var.
+Dialogue: 9,0:01:30.91,0:01:33.62,Subtitle,,0,0,0,,Sevgili Roni Gardihaus,
+Dialogue: 9,0:01:33.62,0:01:36.79,Subtitle,,0,0,0,,Meninizi almaya \Ngeleceğim.
+Dialogue: 9,0:01:37.54,0:01:39.37,Subtitle,,0,0,0,,Hayalet Meni hırsızından!
+Dialogue: 9,0:01:42.25,0:01:44.20,Subtitle,,0,0,0,,Bu adam mı Hayalet meni hırsızı?!
+Dialogue: 9,0:01:44.95,0:01:46.37,Subtitle,,0,0,0,,Ben değilim!
+Dialogue: 9,0:01:46.91,0:01:49.83,Subtitle,,0,0,0,,Ben özel şovalye Gates,
+Dialogue: 9,0:01:49.83,0:01:53.25,Subtitle,,0,0,0,,Hayalet meni hırsızı dosyasına ben bakıyorum.
+Dialogue: 9,0:01:53.41,0:01:55.87,Subtitle,,0,0,0,,Şovalyeler hayalet meni hırsızının mı peşinde?
+Dialogue: 9,0:01:56.54,0:01:59.16,Subtitle,,0,0,0,,Asıl konuya geçmemin sakıncası var mı?
+Dialogue: 9,0:01:59.16,0:02:03.41,Subtitle,,0,0,0,,Uyarı mektubunda adı geçen Roni Gardihaus sensin, değil mi?
+Dialogue: 9,0:02:03.41,0:02:04.91,Subtitle,,0,0,0,,E-evet...
+Dialogue: 9,0:02:05.66,0:02:10.91,Subtitle,,0,0,0,,Bu men...\NHer neyse hırsızın olayı ne?
+Dialogue: 9,0:02:10.91,0:02:14.75,Subtitle,,0,0,0,,O, şu anda şehri birbirine katan\N aranan bir suçlu.
+Dialogue: 9,0:02:15.08,0:02:16.70,Subtitle,,0,0,0,,Kimliği bilinmiyor.
+Dialogue: 9,0:02:16.70,0:02:19.41,Subtitle,,0,0,0,,Bildiğimiz tek şey onun amacı.
+Dialogue: 9,0:02:19.66,0:02:22.45,Subtitle,,0,0,0,,Saf genç erkekleri hedefleyerek
+Dialogue: 9,0:02:22.45,0:02:25.00,Subtitle,,0,0,0,,Meni'lerini çalıyor!
+Dialogue: 9,0:02:25.70,0:02:27.29,Subtitle,,0,0,0,,Meni mi?!
+Dialogue: 9,0:02:28.29,0:02:29.50,Subtitle,,0,0,0,,Neden?
+Dialogue: 9,0:02:29.75,0:02:33.45,Subtitle,,0,0,0,,Ve Roni-kun, bir sonraki hedefi sensin!
+Dialogue: 9,0:02:34.37,0:02:36.25,Subtitle,,0,0,0,,Ama endişelenme!
+Dialogue: 9,0:02:36.25,0:02:42.29,Subtitle,,0,0,0,,Saflığını ne pahasına olursa olsun \Nkoruyacağım!
+Dialogue: 9,0:02:43.87,0:02:46.08,Subtitle,,0,0,0,,Saflık mı? Ha!
+Dialogue: 9,0:02:46.41,0:02:49.20,Subtitle,,0,0,0,,Bu adamdan daha\Nyozlaşmış bir rahip yoktur.
+Dialogue: 9,0:02:50.37,0:02:52.12,Subtitle,,0,0,0,,Bu doğru değil!
+Dialogue: 9,0:02:52.12,0:02:55.20,Subtitle,,0,0,0,,Roni-kun Saf kalpli bir rahip!
+Dialogue: 9,0:02:55.20,0:02:58.62,Subtitle,,0,0,0,,Neden böyle bir şey söylüyorsun, Amona?!
+Dialogue: 9,0:02:58.62,0:03:00.70,Subtitle,,0,0,0,,Bu, şey...
+Dialogue: 9,0:03:00.70,0:03:01.95,Subtitle,,0,0,0,,Kendi etti, kendi buldu..
+Dialogue: 9,0:03:01.95,0:03:05.41,Subtitle,,0,0,0,,Öncelikle, Roni-kun'u \Nkoruma altına almamız gerekiyor.
+Dialogue: 9,0:03:05.62,0:03:09.20,Subtitle,,0,0,0,,Bu seferlik kilise de yardım edecek.
+Dialogue: 9,0:03:09.20,0:03:11.45,Subtitle,,0,0,0,,Orada şu andan itibaren\N ne yapacağımızı tartışırız.
+Dialogue: 9,0:03:17.16,0:03:21.66,Subtitle,,0,0,0,,Bir tane sapık için biraz abartmıyor musun?
+Dialogue: 9,0:03:21.66,0:03:26.54,Subtitle,,0,0,0,,Kullandığı teknikleri düşünürsek,\Nhayalet meni hırsızının kimliği...
+Dialogue: 9,0:03:27.16,0:03:30.04,Subtitle,,0,0,0,,Succubus olduğu söylentileri dönüyor!
+Dialogue: 9,0:03:30.04,0:03:31.33,Subtitle,,0,0,0,,Succubus mı?!
+Dialogue: 9,0:03:33.20,0:03:37.83,Subtitle,,0,0,0,,Bu şehir, kutsal bir hazineyle oluşturulan bir bariyer sayesinde canavarlardan korunuyor.
+Dialogue: 9,0:03:37.83,0:03:42.95,Subtitle,,0,0,0,,Ama bir canavar bir şekilde içeri girmeyi başarırsa, büyük bir felakete yol açar!
+Dialogue: 9,0:03:42.95,0:03:47.66,Subtitle,,0,0,0,,Her ne kadar gerçek olup olmadığını bilmesek de halkın içini rahatlatmalıyız!
+Dialogue: 9,0:03:47.66,0:03:53.45,Subtitle,,0,0,0,,Yani, Hayalet Meni Hırsızı'nı bir an önce yakalamalıyız!
+Dialogue: 9,0:03:50.33,0:03:54.04,Subtitle-Alt,,0,0,0,,Ah! Evet! Tatlım!
+Dialogue: 9,0:03:54.16,0:03:55.95,Subtitle,,0,0,0,,Ooh, içimi rahatlattın doğrusu!
+Dialogue: 9,0:03:55.95,0:03:57.58,Subtitle,,0,0,0,,Size güvenim tam!
+Dialogue: 9,0:03:57.58,0:03:59.75,Subtitle,,0,0,0,,Bize bırakın!
+Dialogue: 9,0:03:59.75,0:04:01.58,Subtitle,,0,0,0,,Nereye bakıyorusun?
+Dialogue: 9,0:04:01.87,0:04:03.75,Subtitle,,0,0,0,,Eğer söylentiler doğru değilse,
+Dialogue: 9,0:04:03.75,0:04:06.54,Subtitle,,0,0,0,,Halkın yeniden huzur içinde uyumasını sağlayabileceğiz.
+Dialogue: 9,0:04:06.75,0:04:10.04,Subtitle,,0,0,0,,Fakat gerçekten bir succubus'la karşı karşıyaysak...
+Dialogue: 9,0:04:10.04,0:04:13.91,Subtitle,,0,0,0,,Bariyeri nasıl geçtiğini ne olursa olsun öğrenmeliyiz.
+Dialogue: 9,0:04:13.91,0:04:16.33,Subtitle,,0,0,0,,A-anladım...
+Dialogue: 9,0:04:16.75,0:04:22.04,Subtitle,,0,0,0,,Bunca sıkı güvenlik önlemi varken Hayalet Hırsızı vazgeçmez mi?
+Dialogue: 9,0:04:22.04,0:04:24.20,Subtitle,,0,0,0,,Hayır! O kesinlikle gelecek
+Dialogue: 9,0:04:24.20,0:04:26.04,Subtitle,,0,0,0,,Çalacağını söylüyorsa\N kesinlikle çalar!
+Dialogue: 9,0:04:26.04,0:04:28.04,Subtitle,,0,0,0,,İşte bu hayalet meni hırsızı!
+Dialogue: 9,0:04:29.87,0:04:31.75,Subtitle,,0,0,0,,Hey Eury,
+Dialogue: 9,0:04:31.75,0:04:34.75,Subtitle,,0,0,0,,Daha deminden beri\N bir şeyi merak ediyordum da...
+Dialogue: 9,0:04:35.29,0:04:38.08,Subtitle,,0,0,0,,Meni ne demek?!
+Dialogue: 9,0:04:43.83,0:04:48.00,Subtitle,,0,0,0,,B-bir erkeğin yaşam enerjisi deposu gibi...
+Dialogue: 9,0:04:48.00,0:04:51.08,Subtitle,,0,0,0,,Ya da yaşamın kaynağı da diyebiliriz?
+Dialogue: 9,0:04:51.08,0:04:54.08,Subtitle,,0,0,0,,Bir dakika, bu kadar önemli bir şeyin mi peşinde?!
+Dialogue: 9,0:04:54.08,0:04:55.08,Subtitle,,0,0,0,,Roni-kun!
+Dialogue: 9,0:04:55.08,0:04:56.83,Subtitle,,0,0,0,,Senin menini koruyacağız!
+Dialogue: 9,0:04:56.83,0:05:00.87,Subtitle,,0,0,0,,Biriktirdiğin onca yoğun meniyi ona kaptırmaya hiç niyetimiz yok!
+Dialogue: 9,0:05:00.87,0:05:03.29,Subtitle,,0,0,0,,Bağırmasan olur mu?
+Dialogue: 9,0:05:04.29,0:05:06.79,Subtitle,,0,0,0,,Keyfinin yerinde olmasına sevindim.
+Dialogue: 9,0:05:07.66,0:05:08.75,Subtitle,,0,0,0,,Roni...
+Dialogue: 9,0:05:09.62,0:05:11.00,Subtitle,,0,0,0,,Lillianne!
+Dialogue: 9,0:05:11.37,0:05:12.70,Subtitle,,0,0,0,,Tanıdığın mı?
+Dialogue: 9,0:05:12.70,0:05:14.54,Subtitle,,0,0,0,,Aynı yetimhanede büyüdük.
+Dialogue: 9,0:05:14.87,0:05:18.70,Subtitle,,0,0,0,,Ama onun bu manastırda rahibe olduğunu hiç bilmiyordum.
+Dialogue: 9,0:05:21.37,0:05:24.29,Subtitle,,0,0,0,,Epey zorlu bir süreç olmuş gibi görünüyor.
+Dialogue: 9,0:05:24.66,0:05:28.87,Subtitle,,0,0,0,,Sonuçta sen her zaman o kusursuz dürüstlüğünü göstermişsindir.
+Dialogue: 9,0:05:30.87,0:05:35.29,Subtitle,,0,0,0,,Tanrıçanın ilahi koruması üzerine olsun.
+Dialogue: 9,0:05:37.41,0:05:39.50,Subtitle,,0,0,0,,Roni bayağı popüler, değil mi?
+Dialogue: 9,0:05:39.50,0:05:41.33,Subtitle,,0,0,0,,Bu hayalet hırsız peşindeyken,
+Dialogue: 9,0:05:41.33,0:05:44.08,Subtitle,,0,0,0,,Tedbiri elden bırakmasan iyi olur, ha Amona?
+Dialogue: 9,0:05:44.08,0:05:47.29,Subtitle,,0,0,0,,Ş-şey, bunun benimle pek bir\Nalakası yok ki...
+Dialogue: 9,0:05:47.29,0:05:49.04,Subtitle,,0,0,0,,Tabii ki var!
+Dialogue: 9,0:05:49.04,0:05:52.37,Subtitle,,0,0,0,,Dün gece resmen\Ncoşmuştunuz!
+Dialogue: 9,0:05:53.33,0:05:57.16,Subtitle,,0,0,0,,Sizin sevgili olduğunuzu artık bilmeyen kalmadı!
+Dialogue: 9,0:05:57.16,0:05:58.58,Subtitle,,0,0,0,,Haru hariç herkes biliyor!
+Dialogue: 9,0:05:58.58,0:06:00.33,Subtitle,,0,0,0,,H-Hayır
+Dialogue: 9,0:06:00.33,0:06:02.33,Subtitle,,0,0,0,,Biz sadece...
+Dialogue: 9,0:06:02.33,0:06:04.08,Subtitle,,0,0,0,,Faydalı kankalarsınız işte!
+Dialogue: 9,0:06:04.08,0:06:07.25,Subtitle,,0,0,0,,O-O gidip söyledi
+Dialogue: 9,0:06:07.58,0:06:08.70,Subtitle,,0,0,0,,O...
+Dialogue: 9,0:06:07.58,0:06:13.20,Subtitle-Alt,,0,0,0,,Evet, biz bunu romantik hisler falan\Nbeslediğimiz için yapmaya başlamadık.
+Dialogue: 9,0:06:09.12,0:06:10.25,Subtitle,,0,0,0,,Bu...
+Dialogue: 9,0:06:10.75,0:06:11.87,Subtitle,,0,0,0,,Bu...
+Dialogue: 9,0:06:12.12,0:06:13.20,Subtitle,,0,0,0,,Bu...
+Dialogue: 9,0:06:13.20,0:06:16.20,Subtitle,,0,0,0,,Yani, bir tek ben böyle hissediyorsam,
+Dialogue: 9,0:06:16.20,0:06:18.29,Subtitle,,0,0,0,,Bu gerçekten çok sinir bozucu olurdu!
+Dialogue: 9,0:06:34.12,0:06:35.12,Subtitle,,0,0,0,,Yaşasın!
+Dialogue: 9,0:06:35.29,0:06:36.20,Subtitle,,0,0,0,,Yaşasın!
+Dialogue: 9,0:06:36.50,0:06:38.20,Subtitle,,0,0,0,,Me-ni
+Dialogue: 9,0:06:38.58,0:06:40.54,Subtitle,,0,0,0,,Onların seni yenmesine izin verme, Meni!
+Dialogue: 9,0:06:40.54,0:06:42.25,Subtitle,,0,0,0,,Hadi göreyim seni, Meni!
+Dialogue: 9,0:06:42.25,0:06:43.95,Subtitle,,0,0,0,,Çabuk ol, çabuk ol, Meni!
+Dialogue: 9,0:06:42.83,0:06:44.91,Subtitle-Alt,,0,0,0,,Biraz sesssiz olur musun?!
+Dialogue: 9,0:06:43.95,0:06:45.87,Subtitle,,0,0,0,,Şu an pes edemezsin, meni
+Dialogue: 9,0:06:45.20,0:06:46.83,Subtitle-Alt,,0,0,0,,Biri bana işkence mi ediyor?
+Dialogue: 9,0:06:45.87,0:06:46.83,Subtitle,,0,0,0,,Harika Semen! Maaşallah Semen!
+Dialogue: 9,0:06:46.83,0:06:50.95,Subtitle,,0,0,0,,Bu bir antrenman; kendini korumak için\Nirade gücünü güçlendiriyor.
+Dialogue: 9,0:06:46.83,0:06:47.62,Subtitle-Alt,,0,0,0,,Harika Meni! Maaşallah Meni!
+Dialogue: 9,0:06:47.62,0:06:48.45,Subtitle-Alt,,0,0,0,,Yoğun, yoğun Meni!
+Dialogue: 9,0:06:48.46,0:06:49.54,Subtitle-Alt,,0,0,0,,Seni yakalamalarına izin verme, Meni!
+Dialogue: 9,0:06:49.54,0:06:50.95,Subtitle-Alt,,0,0,0,,Yaşasın! Yaşasın!
+Dialogue: 9,0:06:50.95,0:06:53.04,Subtitle,,0,0,0,,Bu, hayalet hırsızdan\nbile daha korkunç!
+Dialogue: 9,0:06:50.96,0:06:53.04,Subtitle-Alt,,0,0,0,,Semen!
+Dialogue: 9,0:06:53.04,0:06:55.91,Subtitle,,0,0,0,,Tadın neye benzer meni!?
+Dialogue: 9,0:06:54.62,0:06:56.66,Subtitle-Alt,,0,0,0,,Herkese iyi çalışmalar!
+Dialogue: 9,0:06:56.87,0:07:00.70,Subtitle,,0,0,0,,Nöbetçilerin hepsine çay götürdüm.
+Dialogue: 9,0:07:01.83,0:07:04.00,Subtitle,,0,0,0,,Bunu içmek seni rahatlatacak.
+Dialogue: 9,0:07:04.29,0:07:06.66,Subtitle,,0,0,0,,Elinden geleni yap, Roni.
+Dialogue: 9,0:07:06.66,0:07:08.58,Subtitle,,0,0,0,,Ah, teşekkürler...
+Dialogue: 9,0:07:12.66,0:07:14.08,Subtitle,,0,0,0,,Ne oldu, Roni?!
+Dialogue: 9,0:07:14.08,0:07:16.00,Subtitle,,0,0,0,,Niye bu kadar gerginsin ki?!
+Dialogue: 9,0:07:16.00,0:07:18.29,Subtitle,,0,0,0,,Onu bu şekilde asla yenemezsin!
+Dialogue: 9,0:07:19.95,0:07:22.58,Subtitle,,0,0,0,,Pencerenin dışında şüpheli birini gördüm!
+Dialogue: 9,0:07:22.79,0:07:24.20,Subtitle,,0,0,0,,O olabilir mi...?!
+Dialogue: 9,0:07:24.20,0:07:27.20,Subtitle,,0,0,0,,Kurtulacağını mı sandın,\nHayalet Meni Hırsızı!
+Dialogue: 9,0:07:38.54,0:07:40.83,Subtitle,,0,0,0,,Köşeye sıkıştın, Hayalet hırsız!
+Dialogue: 9,0:07:40.83,0:07:42.20,Subtitle,,0,0,0,,Yüzleş bizimle!
+Dialogue: 9,0:07:51.50,0:07:54.25,Subtitle,,0,0,0,,İyi peki...
+Dialogue: 9,0:07:54.70,0:07:58.45,Subtitle,,0,0,0,,Yok artık, Hayalet Semen Hırsızı\nbu amca mı çıktı şimdi?!
+Dialogue: 9,0:07:58.45,0:08:00.41,Subtitle,,0,0,0,,Ne kadar üzücü bir durum...
+Dialogue: 9,0:08:00.41,0:08:01.87,Subtitle,,0,0,0,,B-Bekle bi saniye
+Dialogue: 9,0:08:01.87,0:08:03.75,Subtitle,,0,0,0,,Bunun çok iyi bir açıklaması var!
+Dialogue: 9,0:08:05.25,0:08:07.79,Subtitle,,0,0,0,,O seksi kadın bana bir ödül vereceğini söyledi!
+Dialogue: 9,0:08:07.79,0:08:11.29,Subtitle,,0,0,0,,Eğer manastırın etrafında\nbu şekilde dolaşsaydım...
+Dialogue: 9,0:08:11.29,0:08:12.50,Subtitle,,0,0,0,,Seksi...?!
+Dialogue: 9,0:08:12.75,0:08:15.33,Subtitle,,0,0,0,,Kahretsin, kandırıldık!
+Dialogue: 9,0:08:29.79,0:08:31.20,Subtitle,,0,0,0,,Bu olamaz!
+Dialogue: 9,0:08:31.79,0:08:33.87,Subtitle,,0,0,0,,Adamı çoktan harcamışlar bile?!
+Dialogue: 9,0:08:31.79,0:08:34.45,Subtitle-Alt,,0,0,0,,Kuruyup kalıyor...
+Dialogue: 9,0:08:34.91,0:08:36.54,Subtitle,,0,0,0,,Kusura bakma ama senin için işler kötü...
+Dialogue: 9,0:08:36.95,0:08:39.66,Subtitle,,0,0,0,,Artık verecek hiçbir şeyi kalmamış.
+Dialogue: 9,0:08:40.50,0:08:44.37,Subtitle,,0,0,0,,Yine de, hayalet hırsızın sen\nolduğunu düşünmek...
+Dialogue: 9,0:08:45.83,0:08:47.29,Subtitle,,0,0,0,,Lillianne!
+Dialogue: 9,0:08:49.25,0:08:52.54,Subtitle,,0,0,0,,İyi de Roni'nin enerjisi neden tükenmiş ki şimdi?!
+Dialogue: 9,0:08:52.75,0:08:54.45,Subtitle,,0,0,0,,Cevap basit.
+Dialogue: 9,0:08:55.29,0:08:59.00,Subtitle,,0,0,0,,Hepsini sen çalmadan önce\nben aldım bile!
+Dialogue: 9,0:09:03.00,0:09:06.83,Subtitle,,0,0,0,,İçeri sızabilmek için Gates ile iş birliği yapıyormuş gibi davrandın!
+Dialogue: 9,0:09:06.83,0:09:10.08,Subtitle,,0,0,0,,Roni ve korumaları uyku ilacıyla etkisiz hâle getirdin.
+Dialogue: 9,0:09:10.29,0:09:13.45,Subtitle,,0,0,0,,Bunun ardından  sahte bir hırsızla Gates'in kafasını karıştıp,
+Dialogue: 9,0:09:13.45,0:09:15.66,Subtitle,,0,0,0,,Roni'ye saldırmayı planlamıştın.
+Dialogue: 9,0:09:16.12,0:09:18.62,Subtitle,,0,0,0,,Haksız mıyım? Hayalet Meni Hırsızı?!
+Dialogue: 9,0:09:21.25,0:09:24.66,Subtitle,,0,0,0,,Ben çalmadan önce birinin  benden çalmasını\n hiç beklemiyordum...
+Dialogue: 9,0:09:24.95,0:09:27.41,Subtitle,,0,0,0,,Bu doğru!
+Dialogue: 9,0:09:27.79,0:09:30.20,Subtitle,,0,0,0,,Ben Hayalet Meni Hırsızıyım!
+Dialogue: 9,0:09:30.50,0:09:33.33,Subtitle,,0,0,0,,Sana soracak bir sürü sorum var.
+Dialogue: 9,0:09:34.12,0:09:36.75,Subtitle,,0,0,0,,Neden Meni çalıyorsun?
+Dialogue: 9,0:09:37.08,0:09:38.25,Subtitle,,0,0,0,,Sen sapık mısın yoksa?
+Dialogue: 9,0:09:38.25,0:09:39.37,Subtitle,,0,0,0,,Hayır!
+Dialogue: 9,0:09:39.62,0:09:42.25,Subtitle,,0,0,0,,Bu bir kurtuluş!
+Dialogue: 9,0:09:42.41,0:09:45.29,Subtitle,,0,0,0,,Amacım, bakilerin gidecek yeri olmayan menilerini.
+Dialogue: 9,0:09:45.29,0:09:47.62,Subtitle,,0,0,0,,Tanrı'nın yerine ben kabul ediyorum!
+Dialogue: 9,0:09:47.75,0:09:49.75,Subtitle,,0,0,0,,Bu benim görevim!
+Dialogue: 9,0:09:50.16,0:09:52.75,Subtitle,,0,0,0,,Zaten Roni'nin karşı cinsle arası hiçbir zaman pek iyi olmamıştır,
+Dialogue: 9,0:09:52.75,0:09:54.62,Subtitle,,0,0,0,,İşte bu yüzden hedefim o oldu.
+Dialogue: 9,0:09:54.62,0:09:56.12,Subtitle,,0,0,0,,Ama buna rağmen...
+Dialogue: 9,0:09:56.50,0:09:59.25,Subtitle,,0,0,0,,senin gibi biriyle mi çıkıyormuş?!
+Dialogue: 9,0:09:59.58,0:10:01.08,Subtitle,,0,0,0,,Çıkmak?
+Dialogue: 9,0:10:01.08,0:10:04.41,Subtitle,,0,0,0,,Seni hayal kırıklığına uğratacağım ama aramızda öyle bir şey yok.
+Dialogue: 9,0:10:04.79,0:10:06.04,Subtitle,,0,0,0,,Nasıl olsa...
+Dialogue: 9,0:10:06.04,0:10:09.20,Subtitle,,0,0,0,,Onun meni tamamen benim!
+Dialogue: 9,0:10:09.91,0:10:12.29,Subtitle,,0,0,0,,Şaşırtıcı derecede sapıksın, Efendim.
+Dialogue: 9,0:10:12.29,0:10:14.70,Subtitle,,0,0,0,,Benden kaçamazsın,\NHayalet meni Hırsızı!
+Dialogue: 9,0:10:15.16,0:10:17.16,Subtitle,,0,0,0,,Roni! menin güvenli mi?!
+Dialogue: 9,0:10:17.16,0:10:18.75,Subtitle,,0,0,0,,S-siz çocuklar?!
+Dialogue: 9,0:10:18.75,0:10:20.33,Subtitle,,0,0,0,,Bunu duydunuz mu
+Dialogue: 9,0:10:21.79,0:10:24.29,Subtitle,,0,0,0,,Bakir olmasa bile,\N
+Dialogue: 9,0:10:24.29,0:10:27.70,Subtitle,,0,0,0,,bir meni hedef aldığımda, onu mutlaka çalarım.
+Dialogue: 9,0:10:28.16,0:10:31.37,Subtitle,,0,0,0,,Buna, Hayalet Meni Hırsızı'nın adı üzerine yemin ederim!
+Dialogue: 9,0:10:34.50,0:10:36.54,Subtitle,,0,0,0,,İyi misin, Roni?!
+Dialogue: 9,0:10:36.54,0:10:38.70,Subtitle,,0,0,0,,B-Ben iyiyim...
+Dialogue: 9,0:10:39.00,0:10:42.79,Subtitle,,0,0,0,,Menin çalındıktan sonra ne kadar zayıf düştüğüne bir bak!
+Dialogue: 9,0:10:42.79,0:10:44.83,Subtitle,,0,0,0,,Hayır, Amona...
+Dialogue: 9,0:10:44.83,0:10:48.54,Subtitle,,0,0,0,,Şey, yani, hiçbir şey çalınmadı!
+Dialogue: 9,0:10:48.54,0:10:52.12,Subtitle,,0,0,0,,Bu doğru değil. O, gerçekten inanılmaz bir şey çaldı...
+Dialogue: 9,0:10:53.75,0:10:56.41,Subtitle,,0,0,0,,Senin Menin!
+Dialogue: 9,0:10:57.79,0:11:00.95,Subtitle,,0,0,0,,Bu adam sadece meni demek istedi!
+Dialogue: 10,0:11:07.58,0:11:09.75,Song,,0,0,0,,{\fad(150,150)}Sevgi mi nefret mi? Bilmiyorum
+Dialogue: 10,0:11:09.75,0:11:11.87,Song,,0,0,0,,{\fad(150,150)}Ne yapmak istiyorum?\nSenin yanında kalmak istiyorum
+Dialogue: 10,0:11:11.87,0:11:15.87,Song,,0,0,0,,{\fad(150,150)}O sıcaklığı asla bırakmamak için
+Dialogue: 10,0:11:16.83,0:11:21.29,Song,,0,0,0,,{\fad(150,150)}Hâlâ çok mu erken? Seni görmek,\no duyguları bilmek istiyorum
+Dialogue: 10,0:11:21.29,0:11:24.70,Song,,0,0,0,,{\fad(150,150)}Ama şimdi öpüşme vakti değil
+Dialogue: 10,0:11:26.20,0:11:28.45,Song,,0,0,0,,{\fad(150,150)}İkimiz öylece, olduğumuz gibi kalamaz mıyız?
+Dialogue: 10,0:11:28.45,0:11:30.79,Song,,0,0,0,,{\fad(150,150)}Sadece dokunmak yetmiyor mu?
+Dialogue: 10,0:11:30.79,0:11:34.79,Song,,0,0,0,,{\fad(150,150)}Paylaştığımız o sıcak zamanda\Nsana sarılmıştım
+Dialogue: 10,0:11:36.25,0:11:42.00,Song,,0,0,0,,{\fad(150,150)}Sizi istiyorum, hepinizi, ve bu yüzden
+Dialogue: 10,0:11:42.00,0:11:45.00,Song,,0,0,0,,{\fad(150,150)}Seni severken iyiyim
+Dialogue: 10,0:11:45.54,0:11:51.37,Song,,0,0,0,,{\fad(150,150)}Başkası değil, sadece sen; ama bunu söyleyemiyorum
+Dialogue: 10,0:11:51.37,0:11:54.95,Song,,0,0,0,,{\fad(150,150)}O "seni seviyorum" sözünü derinlere gömdüm
+Dialogue: 10,0:11:54.95,0:12:00.83,Song,,0,0,0,,{\fad(150,150)}Bir gün bunu söyleyeceğim,\Nama şimdilik hâlâ bir sır
+Dialogue: 0,0:01:01.58,0:01:04.75,Custom,,0,0,0,,{\c&H009BE2&\pos(153,907)\fs45}Bölüm 3: Karanlık Çağırıcı ve Hayalet M*ni Hırsızı
+Dialogue: 0,0:02:40.50,0:02:42.29,Custom,,0,0,0,,{\pos(864,842)\fs45}KORUMAK
+Dialogue: 0,0:08:31.79,0:08:34.45,Custom,,0,0,0,,{\pos(153,162)\fs56}Sanatçının İzlenimi
+Dialogue: 0,0:08:31.79,0:08:34.45,Custom,,0,0,0,,{\pos(1171,237)\fs56}Büzülme
+Dialogue: 0,0:08:31.79,0:08:34.45,Custom,,0,0,0,,{\pos(1420,712)\fs56}Büzülme
